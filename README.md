@@ -2,7 +2,8 @@
 
 Streamline your faucet claims and validator interactions on the Nuklai network. This bot is designed to automate repetitive tasks, saving you time and ensuring consistent activity for multiple accounts.
 
-[![Telegram](https.img.shields.io/badge/Community-Airdrop_ALC-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/airdropalc/1737)
+[![Telegram](https://img.shields.io/badge/Community-Airdrop_ALC-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/airdropalc/1737)
+
 
 ---
 
