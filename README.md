@@ -4,7 +4,6 @@ Streamline your faucet claims and validator interactions on the Nuklai network. 
 
 [![Telegram](https://img.shields.io/badge/Community-Airdrop_ALC-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/airdropalc/1737)
 
-
 ---
 
 ## ✨ Key Features
@@ -49,7 +48,6 @@ npm install
 Add your wallet mnemonics to the `mnemonics.txt` file. **Each mnemonic must be on a new line.**
 
 ```bash
-# Use your preferred text editor, like nano or vscode
 nano mnemonics.txt
 ```
 
@@ -57,11 +55,12 @@ nano mnemonics.txt
 ```
 word ski amazing pulp vague vibrant silly rural velvet frost aspect junk
 estate december barrel onion vibrant silly rural velvet frost amazing pulp junk
+etc.
 ```
 
 ### 4. Configure Proxies (Optional)
 
-If you wish to use proxies, add them to the `proxy.txt` file. Each proxy should be on a new line in the format `ip:port:user:pass`. If your proxies don't require authentication, use `ip:port`.
+If you wish to use proxies, add them to the `proxy.txt` file. Each proxy should be on a new line in the format `http://ip:port@user:pass`. If your proxies don't require authentication, use `ip:port`.
 
 ```bash
 nano proxy.txt
